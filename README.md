@@ -1,4 +1,4 @@
-# stardew_valley_macro
+# Stardew Valley Animation Cancel Macro
 
 Macro based on [this thread](https://forums.stardewvalley.net/threads/a-better-animation-canceling-autohotkey-script.7391/), but using python.
 
